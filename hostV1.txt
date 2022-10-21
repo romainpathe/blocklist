@@ -1919,7 +1919,7 @@
 0.0.0.0 seeques.com
 0.0.0.0 media.pussycash.com
 0.0.0.0 taletela.us.intellitxt.com
-0.0.0.0 sls.update.microsoft.com.akadns.net
+#0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 www.ebayadvertising.com
 0.0.0.0 pokachi.net
